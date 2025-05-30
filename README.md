@@ -64,3 +64,6 @@ Transfer learning (MobileNetV2) with custom dense layers at the end
 - FoodImageClassifier_2.h5 – Trained custom CNN model
 
 - Custom prediction logic
+# 🛠️ For Custom images 
+upload the images in the root directory and run the 'Custom image' cell
+it will process the image and give results 
