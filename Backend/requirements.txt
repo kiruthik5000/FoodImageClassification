@@ -4,4 +4,3 @@ pillow
 python-multipart
 fastapi
 matplotlib
-uvicorn
