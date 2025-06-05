@@ -16,7 +16,7 @@ app.add_middleware(
 )
 # import our model
 
-model = tf.keras.models.load_model('../../Model/FoodImageClassifier.h5')
+model = tf.keras.models.load_model('../Model/FoodImageClassifier.h5')
 
 LABLES = ['Briyani', 'Butter_Chicken', 'Chaparti', 'Gulab_Jamun', 'Jalebi', 'Mysore_pak']
 def preprocess(image):
